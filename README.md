@@ -1,0 +1,2 @@
+# weatherApp
+Seminaritöö edasi arendus
